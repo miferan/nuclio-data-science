@@ -2,10 +2,9 @@
 
 El repositorio contiene las entregas correspondientes al máster en Data Science en Nuclio Digital School (2022)
 
-Listamos:
-- ```diff
-@@ 1_limpieza_de_datos - Miguel Fernandez Angulo.ipynb @@
-```
-(entrega el 5 de mayo de 2022; limpieza de datos del dataset `imdb_clase.csv`, incluido en la carpeta `data` de este repositorio).
+Contenido:
+
+- **@@ 1_limpieza_de_datos - Miguel Fernandez Angulo.ipynb @@** (2022-05-05)
+Limpieza de datos del dataset `imdb_clase.csv`, incluido en la carpeta `data` de este repositorio.
 
 
